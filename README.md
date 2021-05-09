@@ -17,3 +17,11 @@ Em seguida o usuário será posto em outra tela que mostrará a imagem seleciona
 Caso o usuário pressione cancelar, ele então será levado de volta a primeira tela - a de entrada. Do contrário, caso ele pressione o botão mais será mostrado as opções de filtros, como a seguir.
 
 ![image](https://user-images.githubusercontent.com/23502680/117558928-88e0a880-b057-11eb-80f7-14ceeed40368.png)
+
+Para efeitos de demonstração irei pressionar o botão de brilho e contraste. Em seguida serão mostrados dois botões de deslize para ajuste conforme o gosto do usuário.
+
+![image](https://user-images.githubusercontent.com/23502680/117558976-cc3b1700-b057-11eb-9732-6ccd68705e1d.png)
+
+Outro exemplo é o grayscale que quando pressionado muda os tons da imagem imediatamente, sem levar em consideração as alterações feitas pelo botão de brilho e contraste.
+
+![image](https://user-images.githubusercontent.com/23502680/117558997-f391e400-b057-11eb-9b3b-77d216bebe23.png)
