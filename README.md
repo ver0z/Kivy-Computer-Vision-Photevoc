@@ -13,3 +13,7 @@ Ao pressionar o único botão irá abrir uma nova tela que permitirá o usuário
 Em seguida o usuário será posto em outra tela que mostrará a imagem selecionada com a presença de dois novos botões, o de cancelar e outro com o sinal de mais.
 
 ![image](https://user-images.githubusercontent.com/23502680/117558891-3b643b80-b057-11eb-9e5d-bc455dfd82fc.png)
+
+Caso o usuário pressione cancelar, ele então será levado de volta a primeira tela - a de entrada. Do contrário, caso ele pressione o botão mais será mostrado as opções de filtros, como a seguir.
+
+![image](https://user-images.githubusercontent.com/23502680/117558928-88e0a880-b057-11eb-80f7-14ceeed40368.png)
