@@ -4,7 +4,8 @@ Aqui foi criado um app inspirado nas aulas de Visão computacional da Sigmoidal,
 
 A seguir é a tela de entrada, ela possui um fundo diferente, e apenas um botão já direto ao assunto, buscar a imagem que se deseja manipular.
 
-![image](https://user-images.githubusercontent.com/23502680/117558839-e6282a00-b056-11eb-9a29-215f0e56c977.png)
+![image](https://user-images.githubusercontent.com/23502680/117559020-191eed80-b058-11eb-8342-6750b7f0bddf.png)
+
 
 Ao pressionar o único botão irá abrir uma nova tela que permitirá o usuário buscar uma imagem de sua escolha
 
