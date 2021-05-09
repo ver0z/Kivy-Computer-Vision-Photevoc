@@ -19,7 +19,8 @@ Em seguida o usuário será posto em outra tela que mostrará a imagem seleciona
 
 Caso o usuário pressione cancelar, ele então será levado de volta a primeira tela - a de entrada. Do contrário, caso ele pressione o botão mais será mostrado as opções de filtros, como a seguir.
 
-![image](https://user-images.githubusercontent.com/23502680/117558928-88e0a880-b057-11eb-80f7-14ceeed40368.png)
+![image](https://user-images.githubusercontent.com/23502680/117559056-6a2ee180-b058-11eb-88f4-6fce6c239c5b.png)
+
 
 Para efeitos de demonstração irei pressionar o botão de brilho e contraste. Em seguida serão mostrados dois botões de deslize para ajuste conforme o gosto do usuário.
 
