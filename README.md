@@ -24,7 +24,8 @@ Caso o usuário pressione cancelar, ele então será levado de volta a primeira 
 
 Para efeitos de demonstração irei pressionar o botão de brilho e contraste. Em seguida serão mostrados dois botões de deslize para ajuste conforme o gosto do usuário.
 
-![image](https://user-images.githubusercontent.com/23502680/117558976-cc3b1700-b057-11eb-9732-6ccd68705e1d.png)
+![image](https://user-images.githubusercontent.com/23502680/117559063-7a46c100-b058-11eb-8c06-718fa6d2c811.png)
+
 
 Outro exemplo é o grayscale que quando pressionado muda os tons da imagem imediatamente, sem levar em consideração as alterações feitas pelo botão de brilho e contraste.
 
