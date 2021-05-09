@@ -29,4 +29,4 @@ Para efeitos de demonstração irei pressionar o botão de brilho e contraste. E
 
 Outro exemplo é o grayscale que quando pressionado muda os tons da imagem imediatamente, sem levar em consideração as alterações feitas pelo botão de brilho e contraste.
 
-![image](https://user-images.githubusercontent.com/23502680/117558997-f391e400-b057-11eb-9b3b-77d216bebe23.png)
+![image](https://user-images.githubusercontent.com/23502680/117559092-bd089900-b058-11eb-82fe-d0983e969775.png)
