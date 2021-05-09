@@ -9,7 +9,8 @@ A seguir é a tela de entrada, ela possui um fundo diferente, e apenas um botão
 
 Ao pressionar o único botão irá abrir uma nova tela que permitirá o usuário buscar uma imagem de sua escolha
 
-![image](https://user-images.githubusercontent.com/23502680/117558862-0952d980-b057-11eb-96d5-be4e901b88ff.png)
+![image](https://user-images.githubusercontent.com/23502680/117559039-33f16200-b058-11eb-81c6-b1130b33c062.png)
+
 
 Em seguida o usuário será posto em outra tela que mostrará a imagem selecionada com a presença de dois novos botões, o de cancelar e outro com o sinal de mais.
 
