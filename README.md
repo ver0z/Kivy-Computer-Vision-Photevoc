@@ -1,5 +1,5 @@
 # Kivy-Computer-Vision-Photevoc
-https://play.google.com/store/apps/details?id=br.com.evair.photevoc
+<a href='https://play.google.com/store/apps/details?id=br.com.evair.photevoc&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponível no Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png'/></a>
 
 Uma aplicação de visão computacional com filtros utilizando Kivy que permite fazer aplicativos para Android e IOS.
 Aqui foi criado um app inspirado nas aulas de Visão computacional da Sigmoidal, o app funciona no windows e linux normalmente, entretanto, devido à bugs com relação ao OpenCV que ainda existem na plataforma Kivy não foi possível por hora disponibilizar na PlayStore, mas como é Open Source fica aqui o projeto. Abaixo mostro algumas das telas que o app possui.
